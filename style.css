@@ -1,0 +1,19 @@
+.h1-color {
+    color: green;
+}
+
+.h2-color {
+    color: rgba(29, 29, 187, 0.712);
+}
+
+.h3-color {
+    color: hsl(140, 100%, 50%);
+}
+
+.h4-color {
+    color: #ff000080;;
+}
+
+.div-color {
+    color: aquamarine;
+}
