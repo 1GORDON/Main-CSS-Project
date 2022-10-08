@@ -192,3 +192,45 @@ nav .nav-bar {
     color: black;
     font-style: normal;
 }
+
+.action {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 40px;
+    color: #F9FAF8;
+    flex-direction: column;
+}
+
+.action h3 {
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.action p {
+    padding-left: 80px;
+}
+
+.action .button-2 {
+    border: 1px solid white;
+    margin-left: 600px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: column;
+}
+
+.bottom {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    width: 100%;
+    align-self: center;
+    justify-content: center;
+    padding: 10px;
+}
